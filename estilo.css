@@ -1,14 +1,12 @@
 body {
-    background-color: rgb(218, 152, 174);
     text-align: center;
-    font: normal 25pt Arial;
-    color: bisque
 }
 #visor {
     background-color: white;
-    width: 300px;
-    height: 20px;
+    width: 260px;
+    height: 25px;
     color: black;
+    font: normal 25pt Arial;
 }
 input {
     background: rgb(77, 159, 192);
@@ -16,6 +14,15 @@ input {
     border-radius: 8px;
     padding: 15px;
     margin: auto;
-    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.651);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.651);
     font: normal 20pt Arial;
+}
+#rosa {
+    background-color: rgb(218, 152, 174);
+    width: 300px;
+    height: auto;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.651);
+    margin: auto;
 }
