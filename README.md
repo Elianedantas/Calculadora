@@ -2,7 +2,7 @@
 **Atividade - CodeQueens**
 
 ![CQ](https://github.com/Elianedantas/Calculadora/blob/master/Imagens/logo_CQ_png2.png)
-## Manual:
+## Apresentação:
  Ao iniciar o arquivo, aparecerá uma calculadora simples na tela com botões para o usuário selecionar os números e as operações:
 
 ![Tela Inicial](https://github.com/Elianedantas/Calculadora/blob/master/Imagens/tela-inicial.png)
